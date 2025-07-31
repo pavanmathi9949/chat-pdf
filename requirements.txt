@@ -1,0 +1,10 @@
+flask
+PyPDF2
+langchain
+sentence-transformers
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-langchain
+llama-index-vector-stores-faiss
+faiss-cpu
+numpy
